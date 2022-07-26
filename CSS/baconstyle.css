@@ -1,0 +1,22 @@
+/*******************************Tag selector*********************************/
+body {background-color: cyan;}
+
+h1 {color: Red;
+font-size: 200px;}
+
+img {height: 150px;}
+
+img:hover {
+  background-color: gold;
+  height: 250px;}
+
+/*******************************class selector*********************************/
+
+.bacon {background-color: red;}
+
+.broccoli {background-color: green;}
+
+.circle {border-radius: 71% 30% 10% 20%;}
+/*******************************id selector*********************************/
+
+#bacon {background-color: silver;}
